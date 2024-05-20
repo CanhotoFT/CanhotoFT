@@ -4,15 +4,15 @@
   </a>
 </div>
 
-<p align="center"> Claro, aqui está uma versão condensada da minha experiência na área da tecnologia:
+<p align="center"> Claro, aqui está uma versão condensada da minha experiência na área da tecnologia
 
 ---
 
-## Sobre Mim
+<h2> Sobre Mim </h2>
 
 Sou Fernando Canhoto, um entusiasta da tecnologia com formação em Engenharia de Software e experiência em Processos Gerenciais e Gestão de Negócios. Com habilidades tanto em front-end quanto em back-end, estou sempre buscando maneiras de criar soluções inovadoras.
 
-### Habilidades
+<h2> Habilidades </h2>
 
 - **Linguagens de Programação**: Python, Java
 - **Frameworks**: Django
@@ -31,11 +31,11 @@ Sou Fernando Canhoto, um entusiasta da tecnologia com formação em Engenharia d
   <img align="center" alt="" height="30" width="80" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
-### Experiência
+<h2> Experiência </h2>
 
 Minha paixão pela tecnologia me levou a estudar e me atualizar constantemente, mantendo-me a par das últimas tendências e práticas na área. Estou sempre em busca de desafios interessantes para aplicar meus conhecimentos e contribuir de forma significativa para projetos inovadores.
 
-### Contato
+<h2> Contato </h2>
 
 Você pode me encontrar nas redes para mais detalhes sobre minha experiência e projetos anteriores. Fique à vontade para entrar em contato para discutir colaborações ou oportunidades de trabalho!
 
@@ -47,8 +47,9 @@ Você pode me encontrar nas redes para mais detalhes sobre minha experiência e 
 
 ---
 
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
+<div align="left">
+  <h2> Estatísticas GitHub </h2>
+  <p> Segue dash das minhas contribuições: </p>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CanhotoFT&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
 
@@ -59,7 +60,7 @@ Você pode me encontrar nas redes para mais detalhes sobre minha experiência e 
 
 ---
 
-<picture align="center">
+<picture align="left">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CanhotoFT/CanhotoFT/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CanhotoFT/CanhotoFT/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CanhotoFT/CanhotoFT/output/github-contribution-grid-snake.svg">
