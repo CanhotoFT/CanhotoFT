@@ -14,11 +14,11 @@ Sou Fernando Canhoto, um entusiasta da tecnologia com formação em Engenharia d
 
 <h2> Habilidades </h2>
 
-- **Linguagens de Programação**: Python, Java
-- **Frameworks**: Django
+- **Linguagens de Programação**: Python, Java e JavaScript
+- **Frameworks**: Django e Streamlit
 - **Desenvolvimento Web**: JavaScript, HTML5, CSS3
-- **Bancos de Dados**: PostgreSQL, SQLite3
-- **Cloud Computing**: AWS
+- **Bancos de Dados**: PostgreSQL, SQLite3, Supabase
+- **Cloud Computing**: AWS, Streamlit Cloud
 
 <div align="left" style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
